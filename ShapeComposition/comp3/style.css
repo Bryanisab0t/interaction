@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  padding: 40px;
+  background-color: #eee;
+}
+
+p, a {
+  text-align: center;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.outer {
+  width: 600px;
+  height: 600px;
+  background-color: white;
+  margin: 0 auto;
+  font-size: 0;
+}
+
+.layer1{
+  width: 400;
+  height: 100px;
+  background-color: black;
+  clear: left;
+}
+
+.layer2{
+  width: 200;
+  height: 100px;
+  background-color: white;
+}
+
+.layer3{
+  width: 200;
+  height: 100px;
+  background-color: black;
+}
+
+.layer4{
+  width: 400;
+  height: 100px;
+  background-color: white;
+}
+
+.layer5{
+  width: 600px;
+  height: 200px;
+  background-color: white;
+}
+
+.layer6{
+  width: 200px;
+  height: 100px;
+  background-color: black;
+}
+
+.layer7{
+  width: 400px;
+  height: 100px;
+  background-color: white;
+}
+
+.layer8{
+  width: 400px;
+  height: 100px;
+  background-color: black;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}

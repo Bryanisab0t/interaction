@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 40px;
+  background-color: #eee;
+}
+
+p, a {
+  text-align: center;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.outer {
+  width: 600px;
+  height: 600px;
+  background-color: black;
+  margin: 0 auto;
+  font-size: 0;
+}
+
+.red
+{
+  background-color: red;
+  height: 600px;
+  width: 200px;
+}
+
+.white
+{
+  background-color: white;
+  height: 200px;
+  width: 400px;
+}
+
+.mag1
+{
+  background-color: magenta;
+  height: 400px;
+  width: 200px;
+}
+
+.black
+{
+  background-color: black;
+  height: 200px;
+  width: 200px;
+}
+
+.mag2
+{
+  background-color: magenta;
+  height: 200px;
+  width: 200px;
+}
+
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
