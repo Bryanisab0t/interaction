@@ -73,6 +73,14 @@ figure > *:not(:first-child),
 	display: flex;
 }
 
+.blacktab{
+	background-color: black;
+}
+
+.blacktab a{
+	color: white;
+}
+
 .grubsx{
 	width: 100%;
 	height: 120px;
