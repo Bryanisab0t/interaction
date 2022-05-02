@@ -130,7 +130,8 @@ p{
   /* outline-color: red; */
   /* border-bottom-color: coral; */
   border-bottom: 2px solid #112E7B;
-  line-height: 10px;
+  line-height: 1px;
+  padding-top: 10px;
 }
 
 .tab-underline a:hover{
